@@ -56,13 +56,21 @@
 
 ## Документация
 
+Начать стоит с [`Docs/PROJECT_CARD.md`](Docs/PROJECT_CARD.md) — это карточка-индекс со ссылками на всё остальное.
+
 | Документ | Содержание |
 |---|---|
-| [`Docs/PROJECT_CARD.md`](Docs/PROJECT_CARD.md) | Карточка проекта — краткий обзор |
+| [`Docs/PROJECT_CARD.md`](Docs/PROJECT_CARD.md) | Карточка проекта — краткий обзор и индекс |
+| [`Docs/MARKET.md`](Docs/MARKET.md) | Рынок, конкуренты, видение |
+| [`Docs/MODULES.md`](Docs/MODULES.md) | Архитектура и детальное описание девяти модулей |
 | [`Docs/ROLES.md`](Docs/ROLES.md) | Команда: 12 ролей с привязкой к веткам Школы 21 |
 | [`Docs/MONETIZATION.md`](Docs/MONETIZATION.md) | Экономика проекта в единице БЛ (бизнес-ланч) |
 | [`Docs/BL_COIN.md`](Docs/BL_COIN.md) | BL Coin — внутренняя экономика закрытого сообщества |
-| [`obedych_project.md`](obedych_project.md) | Операционный пакет v1.0 — полное описание проекта |
+| [`Docs/SCALING.md`](Docs/SCALING.md) | Масштабирование на новые БЦ |
+| [`Docs/ROADMAP.md`](Docs/ROADMAP.md) | Дорожная карта пилота |
+| [`Docs/LEGAL.md`](Docs/LEGAL.md) | Юридическая рамка |
+| [`Docs/RISKS.md`](Docs/RISKS.md) | Риски и митигация |
+| [`Docs/GLOSSARY.md`](Docs/GLOSSARY.md) | Глоссарий терминов |
 
 ---
 
