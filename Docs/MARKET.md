@@ -42,4 +42,4 @@
 
 - [`PROJECT_CARD.md`](PROJECT_CARD.md) — карточка проекта
 - [`MODULES.md`](MODULES.md) — архитектура и детальное описание модулей
-- [`MONETIZATION.md`](MONETIZATION.md) — экономика проекта в единице БЛ
+- [`MONETIZATION.md`](MONETIZATION.md) — экономика проекта в единице ЛК
